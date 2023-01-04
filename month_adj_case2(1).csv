@@ -1,4 +1,4 @@
-,Year,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths,month_new_case,month_new_death,increase_rate_case
+,Date_reported,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths,month_new_case,month_new_death,increase_rate_case
 123,30/04/2020,BN,Brunei Darussalam,WPRO,0,138,0,1,12,0,0
 124,30/04/2020,KY,Cayman Islands,AMRO,3,73,0,1,65,0,0
 125,30/04/2020,CW,Curaçao,AMRO,0,16,0,1,9,0,0
