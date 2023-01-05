@@ -1,0 +1,235 @@
+﻿Year,Country,WHO_region,Population,Cumulative_cases_2022,Cumulative_deaths_2022,US_option
+2022,United States of America,AMRO,334233854,99027628,1080010,Including the US
+2022,India,SEARO,1420600000,44676678,530690,Excluding the US
+2022,France,EURO,67975000,37988187,157364,Excluding the US
+2022,Germany,EURO,84270625,37177845,160611,Excluding the US
+2022,Brazil,AMRO,215589950,36044441,692461,Excluding the US
+2022,Republic of Korea,WPRO,51638809,28534558,31674,Excluding the US
+2022,Japan,WPRO,125104000,27765782,54365,Excluding the US
+2022,Italy,EURO,58853482,24884034,183138,Excluding the US
+2022,The United Kingdom,EURO,67026292,24135084,198937,Excluding the US
+2022,Russian Federation,EURO,145100000,21750711,393277,Excluding the US
+2022,Türkiye,EURO,84680273,17004677,101419,Excluding the US
+2022,Spain,EURO,47615034,13651239,116658,Excluding the US
+2022,Viet Nam,WPRO,98506193,11523567,43181,Excluding the US
+2022,Australia,WPRO,26025238,10938096,15718,Excluding the US
+2022,China,WPRO,1412600000,10167676,31585,Excluding the US
+2022,Argentina,AMRO,47327407,9829236,130080,Excluding the US
+2022,Netherlands,EURO,17780610,8559116,22953,Excluding the US
+2022,Iran (Islamic Republic of),EMRO,86070176,7560629,144672,Excluding the US
+2022,Mexico,AMRO,128533664,7196485,330834,Excluding the US
+2022,Indonesia,SEARO,275773800,6713879,160488,Excluding the US
+2022,Poland,EURO,37796000,6364708,118467,Excluding the US
+2022,Colombia,AMRO,51049498,6330409,141996,Excluding the US
+2022,Austria,EURO,9090868,5668157,21348,Excluding the US
+2022,Portugal,EURO,10344802,5554058,25714,Excluding the US
+2022,Greece,EURO,10432481,5548487,34779,Excluding the US
+2022,Ukraine,EURO,41130432,5354738,110766,Excluding the US
+2022,Malaysia,WPRO,32761600,5021242,36824,Excluding the US
+2022,Chile,AMRO,19828563,4997056,62963,Excluding the US
+2022,Israel,EURO,9656480,4754934,11988,Excluding the US
+2022,Thailand,SEARO,66877655,4718908,33505,Excluding the US
+2022,Belgium,EURO,11671737,4668248,33228,Excluding the US
+2022,Czechia,EURO,10525739,4576689,42063,Excluding the US
+2022,Canada,AMRO,39064120,4457366,48645,Excluding the US
+2022,Peru,AMRO,33396698,4430160,217960,Excluding the US
+2022,Switzerland,EURO,8789726,4365587,13801,Excluding the US
+2022,Philippines,WPRO,112895978,4059369,65172,Excluding the US
+2022,South Africa,AFRO,60604992,4046603,102550,Excluding the US
+2022,Denmark,EURO,5928364,3379211,7691,Excluding the US
+2022,Romania,EURO,19053815,3305048,67341,Excluding the US
+2022,Sweden,EURO,10514692,2665176,21627,Excluding the US
+2022,Iraq,EMRO,41190700,2464997,25369,Excluding the US
+2022,Serbia,EURO,6690887,2438130,17480,Excluding the US
+2022,Singapore,WPRO,5453600,2193890,1710,Excluding the US
+2022,Hungary,EURO,9689000,2181419,48439,Excluding the US
+2022,Bangladesh,SEARO,165158616,2037011,29438,Excluding the US
+2022,New Zealand,WPRO,5136989,2027981,2288,Excluding the US
+2022,Slovakia,EURO,5431235,1858531,20797,Excluding the US
+2022,Georgia,EURO,3688600,1808820,16897,Excluding the US
+2022,Jordan,EMRO,11376292,1746997,14122,Excluding the US
+2022,Ireland,EURO,5123536,1687668,8293,Excluding the US
+2022,Pakistan,EMRO,235825000,1575486,30635,Excluding the US
+2022,Kazakhstan,EURO,19381792,1491711,19057,Excluding the US
+2022,Norway,EURO,5475240,1473504,4670,Excluding the US
+2022,Finland,EURO,5528796,1438205,7933,Excluding the US
+2022,Slovenia,EURO,2108977,1297794,8708,Excluding the US
+2022,Bulgaria,EURO,6520314,1290967,38089,Excluding the US
+2022,Lithuania,EURO,2839020,1285267,9466,Excluding the US
+2022,Morocco,EMRO,36824860,1271017,16294,Excluding the US
+2022,Croatia,EURO,3871833,1260837,17492,Excluding the US
+2022,Lebanon,EMRO,5490000,1221791,10743,Excluding the US
+2022,Guatemala,AMRO,17109746,1190610,19987,Excluding the US
+2022,Costa Rica,AMRO,5163038,1161687,9072,Excluding the US
+2022,Tunisia,EMRO,11803588,1147477,29279,Excluding the US
+2022,Bolivia (Plurinational State of),AMRO,12006031,1140832,22277,Excluding the US
+2022,Cuba,AMRO,11113215,1111757,8530,Excluding the US
+2022,United Arab Emirates,EMRO,9282410,1046359,2348,Excluding the US
+2022,Puerto Rico,AMRO,3285874,1042874,5499,Excluding the US
+2022,Ecuador,AMRO,18135428,1031449,35913,Excluding the US
+2022,Panama,AMRO,4278500,1020961,8554,Excluding the US
+2022,Mongolia,WPRO,3475146,1007266,2136,Excluding the US
+2022,Uruguay,AMRO,3554915,1002988,7552,Excluding the US
+2022,Nepal,SEARO,29192480,1000962,12019,Excluding the US
+2022,Belarus,EURO,9255524,994037,7118,Excluding the US
+2022,Latvia,EURO,1895400,972561,6143,Excluding the US
+2022,Saudi Arabia,EMRO,35013414,826667,9502,Excluding the US
+2022,Azerbaijan,EURO,10204774,825737,10002,Excluding the US
+2022,Paraguay,AMRO,7353038,720204,19655,Excluding the US
+2022,"occupied Palestinian territory, including east Jerusalem",EMRO,5227193,703228,5708,Excluding the US
+2022,Bahrain,EMRO,1501635,696614,1536,Excluding the US
+2022,Sri Lanka,SEARO,22156000,671838,16814,Excluding the US
+2022,Kuwait,EMRO,4670713,662747,2570,Excluding the US
+2022,Dominican Republic,AMRO,10535535,655540,4384,Excluding the US
+2022,Myanmar,SEARO,55294979,633590,19489,Excluding the US
+2022,Cyprus,EURO,918100,628509,1255,Excluding the US
+2022,Estonia,EURO,1331796,611291,2837,Excluding the US
+2022,Republic of Moldova,EURO,2597100,596100,11929,Excluding the US
+2022,Venezuela (Bolivarian Republic of),AMRO,28302000,549548,5830,Excluding the US
+2022,Egypt,EMRO,104267855,515493,24801,Excluding the US
+2022,Libya,EMRO,6812000,507121,6437,Excluding the US
+2022,Ethiopia,AFRO,105163988,495348,7572,Excluding the US
+2022,Qatar,EMRO,2799202,487321,685,Excluding the US
+2022,Réunion,AFRO,,486659,906,Excluding the US
+2022,Honduras,AMRO,9546178,463685,11063,Excluding the US
+2022,Armenia,EURO,2963900,445881,8712,Excluding the US
+2022,Bosnia and Herzegovina,EURO,3320954,400868,16221,Excluding the US
+2022,Oman,EMRO,4527446,399154,4628,Excluding the US
+2022,North Macedonia,EURO,1832696,345402,9608,Excluding the US
+2022,Kenya,AFRO,47564296,342336,5688,Excluding the US
+2022,Zambia,AFRO,19610769,333746,4019,Excluding the US
+2022,Albania,EURO,2829741,332553,3594,Excluding the US
+2022,Botswana,AFRO,2410338,327471,2786,Excluding the US
+2022,Luxembourg,EURO,645397,311746,1178,Excluding the US
+2022,Mauritius,AFRO,1266334,289980,1039,Excluding the US
+2022,Montenegro,EURO,621306,284464,2790,Excluding the US
+2022,Kosovo,EURO,1798188,272200,3192,Excluding the US
+2022,Algeria,AFRO,45400000,271179,6881,Excluding the US
+2022,Brunei Darussalam,WPRO,429999,266819,146,Excluding the US
+2022,Nigeria,AFRO,218541000,266381,3155,Excluding the US
+2022,Zimbabwe,AFRO,15178979,259981,5637,Excluding the US
+2022,Uzbekistan,EURO,35970275,249217,1637,Excluding the US
+2022,Mozambique,AFRO,31616078,230918,2229,Excluding the US
+2022,Martinique,AMRO,,224826,1076,Excluding the US
+2022,Lao People's Democratic Republic,WPRO,7337783,217586,757,Excluding the US
+2022,Iceland,EURO,385230,207974,229,Excluding the US
+2022,Afghanistan,EMRO,32890171,207214,7845,Excluding the US
+2022,Kyrgyzstan,EURO,7000000,206557,2991,Excluding the US
+2022,El Salvador,AMRO,6825935,201785,4230,Excluding the US
+2022,Guadeloupe,AMRO,,198608,997,Excluding the US
+2022,Trinidad and Tobago,AMRO,1367558,185882,4277,Excluding the US
+2022,Maldives,SEARO,383135,185666,311,Excluding the US
+2022,Ghana,AFRO,30832019,171038,1461,Excluding the US
+2022,Namibia,AFRO,2550226,170164,4080,Excluding the US
+2022,Uganda,AFRO,42885900,169715,3630,Excluding the US
+2022,Jamaica,AMRO,2734093,152758,3461,Excluding the US
+2022,Cambodia,WPRO,15552211,138467,3056,Excluding the US
+2022,Rwanda,AFRO,12955768,132920,1467,Excluding the US
+2022,Cameroon,AFRO,24348251,123993,1965,Excluding the US
+2022,Malta,EURO,519562,116212,813,Excluding the US
+2022,Angola,AFRO,33086278,104973,1928,Excluding the US
+2022,Barbados,AMRO,282000,104416,567,Excluding the US
+2022,French Guiana,AMRO,,97526,411,Excluding the US
+2022,DR Congo,AFRO,99010000,94969,1461,Excluding the US
+2022,Senegal,AFRO,17223497,88896,1968,Excluding the US
+2022,Malawi,AFRO,21507723,88123,2685,Excluding the US
+2022,Suriname,AMRO,598000,81581,1393,Excluding the US
+2022,New Caledonia,WPRO,273674,79162,314,Excluding the US
+2022,French Polynesia,WPRO,279890,77910,649,Excluding the US
+2022,Eswatini,AFRO,1202000,73992,1422,Excluding the US
+2022,Guyana,AMRO,743699,71963,1286,Excluding the US
+2022,Belize,AMRO,441471,69675,688,Excluding the US
+2022,Fiji,WPRO,898402,68702,881,Excluding the US
+2022,Madagascar,AFRO,26923353,67684,1415,Excluding the US
+2022,Jersey,EURO,107800,65130,146,Excluding the US
+2022,Sudan,EMRO,45038680,63686,4994,Excluding the US
+2022,Mauritania,AFRO,4271197,63423,997,Excluding the US
+2022,Cabo Verde,AFRO,563198,63173,412,Excluding the US
+2022,Bhutan,SEARO,763200,62524,21,Excluding the US
+2022,Syrian Arab Republic,EMRO,22125000,57423,3163,Excluding the US
+2022,Burundi,AFRO,12574571,51722,15,Excluding the US
+2022,Seychelles,AFRO,100447,50355,172,Excluding the US
+2022,Guam,WPRO,153836,49851,411,Excluding the US
+2022,Gabon,AFRO,2233272,48973,306,Excluding the US
+2022,Andorra,EURO,81057,47686,165,Excluding the US
+2022,Papua New Guinea,WPRO,9122994,46663,669,Excluding the US
+2022,Curaçao,AMRO,153671,45707,299,Excluding the US
+2022,Aruba,AMRO,111050,43752,280,Excluding the US
+2022,United Republic of Tanzania,AFRO,61741120,42111,845,Excluding the US
+2022,Mayotte,AFRO,,41969,187,Excluding the US
+2022,Togo,AFRO,7886000,39339,290,Excluding the US
+2022,Guinea,AFRO,12907395,38191,465,Excluding the US
+2022,Isle of Man,EURO,84069,38008,116,Excluding the US
+2022,Bahamas,AMRO,393450,37491,833,Excluding the US
+2022,Faroe Islands,EURO,54159,34658,28,Excluding the US
+2022,Lesotho,AFRO,2306000,34490,706,Excluding the US
+2022,Guernsey,EURO,63823,33910,66,Excluding the US
+2022,Haiti,AMRO,11743017,33893,860,Excluding the US
+2022,Mali,AFRO,22594000,32767,743,Excluding the US
+2022,Cayman Islands,AMRO,71105,31472,37,Excluding the US
+2022,Saint Lucia,AMRO,178696,29741,409,Excluding the US
+2022,Benin,AFRO,12506347,27982,163,Excluding the US
+2022,Somalia,EMRO,17598000,27300,1361,Excluding the US
+2022,Congo,AFRO,5970000,24775,386,Excluding the US
+2022,Solomon Islands,WPRO,728041,24575,153,Excluding the US
+2022,United States Virgin Islands,AMRO,87146,23721,127,Excluding the US
+2022,Timor-Leste,SEARO,1317780,23386,138,Excluding the US
+2022,San Marino,EURO,33785,22813,120,Excluding the US
+2022,Micronesia (Federated States of),WPRO,105754,22069,58,Excluding the US
+2022,Burkina Faso,AFRO,21510181,22006,395,Excluding the US
+2022,Liechtenstein,EURO,39444,21228,87,Excluding the US
+2022,Gibraltar,EURO,33000,20252,110,Excluding the US
+2022,Grenada,AMRO,125000,19644,238,Excluding the US
+2022,Bermuda,AMRO,64055,18557,152,Excluding the US
+2022,South Sudan,AFRO,13249924,18368,138,Excluding the US
+2022,Tajikistan,EURO,9506000,17786,125,Excluding the US
+2022,Equatorial Guinea,AFRO,1505588,17089,183,Excluding the US
+2022,Tonga,WPRO,100179,16211,12,Excluding the US
+2022,Samoa,WPRO,199853,15982,29,Excluding the US
+2022,Monaco,EURO,39150,15897,65,Excluding the US
+2022,Dominica,AMRO,73000,15760,74,Excluding the US
+2022,Djibouti,EMRO,976107,15690,189,Excluding the US
+2022,Marshall Islands,WPRO,39262,15547,17,Excluding the US
+2022,Nicaragua,AMRO,6595674,15365,245,Excluding the US
+2022,Central African Republic,AFRO,5633412,15310,113,Excluding the US
+2022,Northern Mariana Islands (Commonwealth of the),WPRO,47329,13236,41,Excluding the US
+2022,Gambia,AFRO,2706000,12586,372,Excluding the US
+2022,Saint Martin,AMRO,32489,12104,46,Excluding the US
+2022,Vanuatu,WPRO,301295,12013,14,Excluding the US
+2022,Greenland,EURO,56619,11971,21,Excluding the US
+2022,Yemen,EMRO,33697000,11945,2159,Excluding the US
+2022,Sint Maarten,AMRO,42577,10988,89,Excluding the US
+2022,Eritrea,AFRO,3684000,10189,103,Excluding the US
+2022,Saint Vincent and the Grenadines,AMRO,110696,9521,118,Excluding the US
+2022,Niger,AFRO,24112753,9473,314,Excluding the US
+2022,Antigua and Barbuda,AMRO,100772,9106,146,Excluding the US
+2022,Comoros,AFRO,758316,8979,160,Excluding the US
+2022,Guinea-Bissau,AFRO,1646077,8848,176,Excluding the US
+2022,American Samoa,WPRO,49710,8266,34,Excluding the US
+2022,Liberia,AFRO,4661010,8043,294,Excluding the US
+2022,Sierra Leone,AFRO,8494260,7760,125,Excluding the US
+2022,Chad,AFRO,16818391,7649,194,Excluding the US
+2022,British Virgin Islands,AMRO,31000,7305,64,Excluding the US
+2022,Cook Islands,WPRO,15040,6607,1,Excluding the US
+2022,Saint Kitts and Nevis,AMRO,48000,6560,46,Excluding the US
+2022,Turks and Caicos Islands,AMRO,44542,6479,36,Excluding the US
+2022,Sao Tome and Principe,AFRO,,6279,77,Excluding the US
+2022,Palau,WPRO,16733,5955,9,Excluding the US
+2022,Saint Barthélemy,AMRO,10289,5382,5,Excluding the US
+2022,Nauru,WPRO,11832,4621,1,Excluding the US
+2022,Anguilla,AMRO,15701,3904,12,Excluding the US
+2022,Kiribati,WPRO,120740,3430,13,Excluding the US
+2022,Wallis and Futuna,WPRO,11369,3415,7,Excluding the US
+2022,Saint Pierre and Miquelon,AMRO,5974,3316,2,Excluding the US
+2022,Tuvalu,WPRO,10679,2779,0,Excluding the US
+2022,"Saint Helena, Ascension and Tristan da Cunha",AFRO,5651,2166,0,Excluding the US
+2022,Falkland Islands (Malvinas),AMRO,3800,1923,0,Excluding the US
+2022,Montserrat,AMRO,4400,1403,8,Excluding the US
+2022,Sint Eustatius,AMRO,,1212,5,Excluding the US
+2022,Saba,AMRO,214610,737,2,Excluding the US
+2022,Niue,WPRO,1549,335,0,Excluding the US
+2022,Holy See,EURO,,26,0,Excluding the US
+2022,Tokelau,WPRO,1647,5,0,Excluding the US
+2022,Pitcairn Islands,WPRO,47,4,0,Excluding the US
+2022,North Korea,SEARO,25660000,0,0,Excluding the US
+2022,Turkmenistan,EURO,6431000,0,0,Excluding the US
