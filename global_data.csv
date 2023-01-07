@@ -1,0 +1,712 @@
+﻿Year,Country_code,Country_code_1,Country,WHO_region,Cumulative_cases,US_option
+2020,af,AF,Afghanistan,EMRO,52330,Excluding the US
+2021,af,AF,Afghanistan,EMRO,158059,Excluding the US
+2022,af,AF,Afghanistan,EMRO,207214,Excluding the US
+2020,al,AL,Albania,EURO,57727,Excluding the US
+2021,al,AL,Albania,EURO,209516,Excluding the US
+2022,al,AL,Albania,EURO,332553,Excluding the US
+2020,dz,DZ,Algeria,AFRO,99311,Excluding the US
+2021,dz,DZ,Algeria,AFRO,218037,Excluding the US
+2022,dz,DZ,Algeria,AFRO,271179,Excluding the US
+2020,as,AS,American Samoa,WPRO,0,Excluding the US
+2021,as,AS,American Samoa,WPRO,11,Excluding the US
+2022,as,AS,American Samoa,WPRO,8266,Excluding the US
+2020,ad,AD,Andorra,EURO,7983,Excluding the US
+2021,ad,AD,Andorra,EURO,23122,Excluding the US
+2022,ad,AD,Andorra,EURO,47686,Excluding the US
+2020,ao,AO,Angola,AFRO,17433,Excluding the US
+2021,ao,AO,Angola,AFRO,76787,Excluding the US
+2022,ao,AO,Angola,AFRO,104973,Excluding the US
+2020,ai,AI,Anguilla,AMRO,13,Excluding the US
+2021,ai,AI,Anguilla,AMRO,1674,Excluding the US
+2022,ai,AI,Anguilla,AMRO,3904,Excluding the US
+2020,ag,AG,Antigua and Barbuda,AMRO,158,Excluding the US
+2021,ag,AG,Antigua and Barbuda,AMRO,4295,Excluding the US
+2022,ag,AG,Antigua and Barbuda,AMRO,9106,Excluding the US
+2020,ar,AR,Argentina,AMRO,1674319,Excluding the US
+2021,ar,AR,Argentina,AMRO,5780522,Excluding the US
+2022,ar,AR,Argentina,AMRO,9829236,Excluding the US
+2020,am,AM,Armenia,EURO,159409,Excluding the US
+2021,am,AM,Armenia,EURO,344930,Excluding the US
+2022,am,AM,Armenia,EURO,445881,Excluding the US
+2020,aw,AW,Aruba,AMRO,5373,Excluding the US
+2021,aw,AW,Aruba,AMRO,19021,Excluding the US
+2022,aw,AW,Aruba,AMRO,43752,Excluding the US
+2020,au,AU,Australia,WPRO,28381,Excluding the US
+2021,au,AU,Australia,WPRO,362558,Excluding the US
+2022,au,AU,Australia,WPRO,10938096,Excluding the US
+2020,at,AT,Austria,EURO,352667,Excluding the US
+2021,at,AT,Austria,EURO,1264535,Excluding the US
+2022,at,AT,Austria,EURO,5668157,Excluding the US
+2020,az,AZ,Azerbaijan,EURO,216584,Excluding the US
+2021,az,AZ,Azerbaijan,EURO,616352,Excluding the US
+2022,az,AZ,Azerbaijan,EURO,825737,Excluding the US
+2020,bs,BS,Bahamas,AMRO,7857,Excluding the US
+2021,bs,BS,Bahamas,AMRO,24476,Excluding the US
+2022,bs,BS,Bahamas,AMRO,37491,Excluding the US
+2020,bh,BH,Bahrain,EMRO,92425,Excluding the US
+2021,bh,BH,Bahrain,EMRO,281406,Excluding the US
+2022,bh,BH,Bahrain,EMRO,696614,Excluding the US
+2020,bd,BD,Bangladesh,SEARO,513510,Excluding the US
+2021,bd,BD,Bangladesh,SEARO,1585539,Excluding the US
+2022,bd,BD,Bangladesh,SEARO,2037011,Excluding the US
+2020,bb,BB,Barbados,AMRO,372,Excluding the US
+2021,bb,BB,Barbados,AMRO,28310,Excluding the US
+2022,bb,BB,Barbados,AMRO,104416,Excluding the US
+2020,by,BY,Belarus,EURO,192361,Excluding the US
+2021,by,BY,Belarus,EURO,697600,Excluding the US
+2022,by,BY,Belarus,EURO,994037,Excluding the US
+2020,be,BE,Belgium,EURO,646434,Excluding the US
+2021,be,BE,Belgium,EURO,2097549,Excluding the US
+2022,be,BE,Belgium,EURO,4668248,Excluding the US
+2020,bz,BZ,Belize,AMRO,10668,Excluding the US
+2021,bz,BZ,Belize,AMRO,32067,Excluding the US
+2022,bz,BZ,Belize,AMRO,69675,Excluding the US
+2020,bj,BJ,Benin,AFRO,3251,Excluding the US
+2021,bj,BJ,Benin,AFRO,25044,Excluding the US
+2022,bj,BJ,Benin,AFRO,27982,Excluding the US
+2020,bm,BM,Bermuda,AMRO,595,Excluding the US
+2021,bm,BM,Bermuda,AMRO,6331,Excluding the US
+2022,bm,BM,Bermuda,AMRO,18557,Excluding the US
+2020,bt,BT,Bhutan,SEARO,670,Excluding the US
+2021,bt,BT,Bhutan,SEARO,2660,Excluding the US
+2022,bt,BT,Bhutan,SEARO,62524,Excluding the US
+2020,bo,BO,Bolivia (Plurinational State of),AMRO,156887,Excluding the US
+2021,bo,BO,Bolivia (Plurinational State of),AMRO,591773,Excluding the US
+2022,bo,BO,Bolivia (Plurinational State of),AMRO,1140832,Excluding the US
+2020,xa,XA,Bonaire,AMRO,162,Excluding the US
+2021,xa,XA,Bonaire,AMRO,3294,Excluding the US
+2022,xa,XA,Bonaire,AMRO,9767,Excluding the US
+2020,ba,BA,Bosnia and Herzegovina,EURO,110985,Excluding the US
+2021,ba,BA,Bosnia and Herzegovina,EURO,290471,Excluding the US
+2022,ba,BA,Bosnia and Herzegovina,EURO,400868,Excluding the US
+2020,bw,BW,Botswana,AFRO,14637,Excluding the US
+2021,bw,BW,Botswana,AFRO,222053,Excluding the US
+2022,bw,BW,Botswana,AFRO,327471,Excluding the US
+2020,br,BR,Brazil,AMRO,7563551,Excluding the US
+2021,br,BR,Brazil,AMRO,22263834,Excluding the US
+2022,br,BR,Brazil,AMRO,36044441,Excluding the US
+2020,vg,VG,British Virgin Islands,AMRO,93,Excluding the US
+2021,vg,VG,British Virgin Islands,AMRO,3256,Excluding the US
+2022,vg,VG,British Virgin Islands,AMRO,7305,Excluding the US
+2020,bn,BN,Brunei Darussalam,WPRO,157,Excluding the US
+2021,bn,BN,Brunei Darussalam,WPRO,15470,Excluding the US
+2022,bn,BN,Brunei Darussalam,WPRO,266819,Excluding the US
+2020,bg,BG,Bulgaria,EURO,201220,Excluding the US
+2021,bg,BG,Bulgaria,EURO,744298,Excluding the US
+2022,bg,BG,Bulgaria,EURO,1290967,Excluding the US
+2020,bf,BF,Burkina Faso,AFRO,6707,Excluding the US
+2021,bf,BF,Burkina Faso,AFRO,17632,Excluding the US
+2022,bf,BF,Burkina Faso,AFRO,22006,Excluding the US
+2020,bi,BI,Burundi,AFRO,818,Excluding the US
+2021,bi,BI,Burundi,AFRO,30550,Excluding the US
+2022,bi,BI,Burundi,AFRO,51722,Excluding the US
+2020,cv,CV,Cabo Verde,AFRO,11793,Excluding the US
+2021,cv,CV,Cabo Verde,AFRO,40738,Excluding the US
+2022,cv,CV,Cabo Verde,AFRO,63173,Excluding the US
+2020,kh,KH,Cambodia,WPRO,366,Excluding the US
+2021,kh,KH,Cambodia,WPRO,120487,Excluding the US
+2022,kh,KH,Cambodia,WPRO,138467,Excluding the US
+2020,cm,CM,Cameroon,AFRO,26848,Excluding the US
+2021,cm,CM,Cameroon,AFRO,109666,Excluding the US
+2022,cm,CM,Cameroon,AFRO,123993,Excluding the US
+2020,ca,CA,Canada,AMRO,565504,Excluding the US
+2021,ca,CA,Canada,AMRO,2102470,Excluding the US
+2022,ca,CA,Canada,AMRO,4457366,Excluding the US
+2020,ky,KY,Cayman Islands,AMRO,326,Excluding the US
+2021,ky,KY,Cayman Islands,AMRO,8818,Excluding the US
+2022,ky,KY,Cayman Islands,AMRO,31472,Excluding the US
+2020,cf,CF,Central African Republic,AFRO,5818,Excluding the US
+2021,cf,CF,Central African Republic,AFRO,12454,Excluding the US
+2022,cf,CF,Central African Republic,AFRO,15310,Excluding the US
+2020,td,TD,Chad,AFRO,2077,Excluding the US
+2021,td,TD,Chad,AFRO,5701,Excluding the US
+2022,td,TD,Chad,AFRO,7649,Excluding the US
+2020,cl,CL,Chile,AMRO,605950,Excluding the US
+2021,cl,CL,Chile,AMRO,1804682,Excluding the US
+2022,cl,CL,Chile,AMRO,4997056,Excluding the US
+2020,cn,CN,China,WPRO,96673,Excluding the US
+2021,cn,CN,China,WPRO,131780,Excluding the US
+2022,cn,CN,China,WPRO,10167676,Excluding the US
+2020,co,CO,Colombia,AMRO,1614822,Excluding the US
+2021,co,CO,Colombia,AMRO,5138603,Excluding the US
+2022,co,CO,Colombia,AMRO,6330409,Excluding the US
+2020,km,KM,Comoros,AFRO,695,Excluding the US
+2021,km,KM,Comoros,AFRO,6515,Excluding the US
+2022,km,KM,Comoros,AFRO,8979,Excluding the US
+2020,cg,CG,Congo,AFRO,6431,Excluding the US
+2021,cg,CG,Congo,AFRO,21277,Excluding the US
+2022,cg,CG,Congo,AFRO,24775,Excluding the US
+2021,ck,CK,Cook Islands,WPRO,0,Excluding the US
+2020,ck,CK,Cook Islands,WPRO,0,Excluding the US
+2022,ck,CK,Cook Islands,WPRO,6607,Excluding the US
+2020,cr,CR,Costa Rica,AMRO,166799,Excluding the US
+2021,cr,CR,Costa Rica,AMRO,570960,Excluding the US
+2022,cr,CR,Costa Rica,AMRO,1161687,Excluding the US
+2020,ci,CI,Côte d’Ivoire,AFRO,22250,Excluding the US
+2021,ci,CI,Côte d’Ivoire,AFRO,68146,Excluding the US
+2022,ci,CI,Côte d’Ivoire,AFRO,87912,Excluding the US
+2020,hr,HR,Croatia,EURO,208446,Excluding the US
+2021,hr,HR,Croatia,EURO,709678,Excluding the US
+2022,hr,HR,Croatia,EURO,1260837,Excluding the US
+2020,cu,CU,Cuba,AMRO,11687,Excluding the US
+2021,cu,CU,Cuba,AMRO,965571,Excluding the US
+2022,cu,CU,Cuba,AMRO,1111757,Excluding the US
+2020,cw,CW,Curaçao,AMRO,4179,Excluding the US
+2021,cw,CW,Curaçao,AMRO,20199,Excluding the US
+2022,cw,CW,Curaçao,AMRO,45707,Excluding the US
+2020,cy,CY,Cyprus,EURO,22347,Excluding the US
+2021,cy,CY,Cyprus,EURO,161779,Excluding the US
+2022,cy,CY,Cyprus,EURO,628509,Excluding the US
+2020,cz,CZ,Czechia,EURO,723581,Excluding the US
+2021,cz,CZ,Czechia,EURO,2517308,Excluding the US
+2022,cz,CZ,Czechia,EURO,4576689,Excluding the US
+2022,kp,KP,Democratic People's Republic of Korea,SEARO,0,Excluding the US
+2021,kp,KP,Democratic People's Republic of Korea,SEARO,0,Excluding the US
+2020,kp,KP,Democratic People's Republic of Korea,SEARO,0,Excluding the US
+2020,cd,CD,Democratic Republic of the Congo,AFRO,17657,Excluding the US
+2021,cd,CD,Democratic Republic of the Congo,AFRO,79273,Excluding the US
+2022,cd,CD,Democratic Republic of the Congo,AFRO,94969,Excluding the US
+2020,dk,DK,Denmark,EURO,161230,Excluding the US
+2021,dk,DK,Denmark,EURO,783702,Excluding the US
+2022,dk,DK,Denmark,EURO,3379211,Excluding the US
+2020,dj,DJ,Djibouti,EMRO,5824,Excluding the US
+2021,dj,DJ,Djibouti,EMRO,13632,Excluding the US
+2022,dj,DJ,Djibouti,EMRO,15690,Excluding the US
+2020,dm,DM,Dominica,AMRO,96,Excluding the US
+2021,dm,DM,Dominica,AMRO,6814,Excluding the US
+2022,dm,DM,Dominica,AMRO,15760,Excluding the US
+2020,do,DO,Dominican Republic,AMRO,169579,Excluding the US
+2021,do,DO,Dominican Republic,AMRO,417268,Excluding the US
+2022,do,DO,Dominican Republic,AMRO,655540,Excluding the US
+2020,ec,EC,Ecuador,AMRO,211512,Excluding the US
+2021,ec,EC,Ecuador,AMRO,545800,Excluding the US
+2022,ec,EC,Ecuador,AMRO,1031449,Excluding the US
+2020,eg,EG,Egypt,EMRO,136644,Excluding the US
+2021,eg,EG,Egypt,EMRO,384728,Excluding the US
+2022,eg,EG,Egypt,EMRO,515493,Excluding the US
+2020,sv,SV,El Salvador,AMRO,45960,Excluding the US
+2021,sv,SV,El Salvador,AMRO,121741,Excluding the US
+2022,sv,SV,El Salvador,AMRO,201785,Excluding the US
+2020,gq,GQ,Equatorial Guinea,AFRO,5277,Excluding the US
+2021,gq,GQ,Equatorial Guinea,AFRO,13710,Excluding the US
+2022,gq,GQ,Equatorial Guinea,AFRO,17089,Excluding the US
+2020,er,ER,Eritrea,AFRO,1252,Excluding the US
+2021,er,ER,Eritrea,AFRO,7982,Excluding the US
+2022,er,ER,Eritrea,AFRO,10189,Excluding the US
+2020,ee,EE,Estonia,EURO,28008,Excluding the US
+2021,ee,EE,Estonia,EURO,241801,Excluding the US
+2022,ee,EE,Estonia,EURO,611291,Excluding the US
+2020,sz,SZ,Eswatini,AFRO,9144,Excluding the US
+2021,sz,SZ,Eswatini,AFRO,65832,Excluding the US
+2022,sz,SZ,Eswatini,AFRO,73992,Excluding the US
+2020,et,ET,Ethiopia,AFRO,123856,Excluding the US
+2021,et,ET,Ethiopia,AFRO,415443,Excluding the US
+2022,et,ET,Ethiopia,AFRO,495348,Excluding the US
+2020,fk,FK,Falkland Islands (Malvinas),AMRO,29,Excluding the US
+2021,fk,FK,Falkland Islands (Malvinas),AMRO,82,Excluding the US
+2022,fk,FK,Falkland Islands (Malvinas),AMRO,1923,Excluding the US
+2020,fo,FO,Faroe Islands,EURO,608,Excluding the US
+2021,fo,FO,Faroe Islands,EURO,5769,Excluding the US
+2022,fo,FO,Faroe Islands,EURO,34658,Excluding the US
+2020,fj,FJ,Fiji,WPRO,49,Excluding the US
+2021,fj,FJ,Fiji,WPRO,53332,Excluding the US
+2022,fj,FJ,Fiji,WPRO,68702,Excluding the US
+2020,fi,FI,Finland,EURO,36426,Excluding the US
+2021,fi,FI,Finland,EURO,271184,Excluding the US
+2022,fi,FI,Finland,EURO,1438205,Excluding the US
+2020,fr,FR,France,EURO,2564972,Excluding the US
+2021,fr,FR,France,EURO,9482582,Excluding the US
+2022,fr,FR,France,EURO,37988187,Excluding the US
+2020,gf,GF,French Guiana,AMRO,13045,Excluding the US
+2021,gf,GF,French Guiana,AMRO,48399,Excluding the US
+2022,gf,GF,French Guiana,AMRO,97526,Excluding the US
+2020,pf,PF,French Polynesia,WPRO,16851,Excluding the US
+2021,pf,PF,French Polynesia,WPRO,46425,Excluding the US
+2022,pf,PF,French Polynesia,WPRO,77910,Excluding the US
+2020,ga,GA,Gabon,AFRO,9571,Excluding the US
+2021,ga,GA,Gabon,AFRO,41798,Excluding the US
+2022,ga,GA,Gabon,AFRO,48973,Excluding the US
+2020,gm,GM,Gambia,AFRO,3800,Excluding the US
+2021,gm,GM,Gambia,AFRO,10170,Excluding the US
+2022,gm,GM,Gambia,AFRO,12586,Excluding the US
+2020,ge,GE,Georgia,EURO,227420,Excluding the US
+2021,ge,GE,Georgia,EURO,934741,Excluding the US
+2022,ge,GE,Georgia,EURO,1808820,Excluding the US
+2020,de,DE,Germany,EURO,1734474,Excluding the US
+2021,de,DE,Germany,EURO,7165195,Excluding the US
+2022,de,DE,Germany,EURO,37177845,Excluding the US
+2020,gh,GH,Ghana,AFRO,55064,Excluding the US
+2021,gh,GH,Ghana,AFRO,146119,Excluding the US
+2022,gh,GH,Ghana,AFRO,171038,Excluding the US
+2020,gi,GI,Gibraltar,EURO,1785,Excluding the US
+2021,gi,GI,Gibraltar,EURO,8533,Excluding the US
+2022,gi,GI,Gibraltar,EURO,20252,Excluding the US
+2020,gr,GR,Greece,EURO,137918,Excluding the US
+2021,gr,GR,Greece,EURO,1170293,Excluding the US
+2022,gr,GR,Greece,EURO,5548487,Excluding the US
+2020,gl,GL,Greenland,EURO,27,Excluding the US
+2021,gl,GL,Greenland,EURO,2501,Excluding the US
+2022,gl,GL,Greenland,EURO,11971,Excluding the US
+2020,gd,GD,Grenada,AMRO,128,Excluding the US
+2021,gd,GD,Grenada,AMRO,6073,Excluding the US
+2022,gd,GD,Grenada,AMRO,19644,Excluding the US
+2020,gp,GP,Guadeloupe,AMRO,8620,Excluding the US
+2021,gp,GP,Guadeloupe,AMRO,55795,Excluding the US
+2022,gp,GP,Guadeloupe,AMRO,198608,Excluding the US
+2020,gu,GU,Guam,WPRO,7129,Excluding the US
+2021,gu,GU,Guam,WPRO,15352,Excluding the US
+2022,gu,GU,Guam,WPRO,49851,Excluding the US
+2020,gt,GT,Guatemala,AMRO,137166,Excluding the US
+2021,gt,GT,Guatemala,AMRO,626675,Excluding the US
+2022,gt,GT,Guatemala,AMRO,1190610,Excluding the US
+2020,gg,GG,Guernsey,EURO,298,Excluding the US
+2021,gg,GG,Guernsey,EURO,7802,Excluding the US
+2022,gg,GG,Guernsey,EURO,33910,Excluding the US
+2020,gn,GN,Guinea,AFRO,13722,Excluding the US
+2021,gn,GN,Guinea,AFRO,32448,Excluding the US
+2022,gn,GN,Guinea,AFRO,38191,Excluding the US
+2020,gw,GW,Guinea-Bissau,AFRO,2452,Excluding the US
+2021,gw,GW,Guinea-Bissau,AFRO,6484,Excluding the US
+2022,gw,GW,Guinea-Bissau,AFRO,8848,Excluding the US
+2020,gy,GY,Guyana,AMRO,6301,Excluding the US
+2021,gy,GY,Guyana,AMRO,39238,Excluding the US
+2022,gy,GY,Guyana,AMRO,71963,Excluding the US
+2020,ht,HT,Haiti,AMRO,9999,Excluding the US
+2021,ht,HT,Haiti,AMRO,26169,Excluding the US
+2022,ht,HT,Haiti,AMRO,33893,Excluding the US
+2022,va,VA,Holy See,EURO,26,Excluding the US
+2021,va,VA,Holy See,EURO,26,Excluding the US
+2020,va,VA,Holy See,EURO,26,Excluding the US
+2020,hn,HN,Honduras,AMRO,120912,Excluding the US
+2021,hn,HN,Honduras,AMRO,379542,Excluding the US
+2022,hn,HN,Honduras,AMRO,463685,Excluding the US
+2020,hu,HU,Hungary,EURO,322514,Excluding the US
+2021,hu,HU,Hungary,EURO,1256415,Excluding the US
+2022,hu,HU,Hungary,EURO,2181419,Excluding the US
+2020,is,IS,Iceland,EURO,5767,Excluding the US
+2021,is,IS,Iceland,EURO,28333,Excluding the US
+2022,is,IS,Iceland,EURO,207974,Excluding the US
+2020,in,IN,India,SEARO,10266674,Excluding the US
+2021,in,IN,India,SEARO,34838804,Excluding the US
+2022,in,IN,India,SEARO,44676678,Excluding the US
+2020,id,ID,Indonesia,SEARO,743198,Excluding the US
+2021,id,ID,Indonesia,SEARO,4262720,Excluding the US
+2022,id,ID,Indonesia,SEARO,6713879,Excluding the US
+2020,ir,IR,Iran (Islamic Republic of),EMRO,1218753,Excluding the US
+2021,ir,IR,Iran (Islamic Republic of),EMRO,6192698,Excluding the US
+2022,ir,IR,Iran (Islamic Republic of),EMRO,7560629,Excluding the US
+2020,iq,IQ,Iraq,EMRO,594442,Excluding the US
+2021,iq,IQ,Iraq,EMRO,2093436,Excluding the US
+2022,iq,IQ,Iraq,EMRO,2464997,Excluding the US
+2020,ie,IE,Ireland,EURO,91237,Excluding the US
+2021,ie,IE,Ireland,EURO,772985,Excluding the US
+2022,ie,IE,Ireland,EURO,1687668,Excluding the US
+2020,im,IM,Isle of Man,EURO,379,Excluding the US
+2021,im,IM,Isle of Man,EURO,15366,Excluding the US
+2022,im,IM,Isle of Man,EURO,38008,Excluding the US
+2020,il,IL,Israel,EURO,419658,Excluding the US
+2021,il,IL,Israel,EURO,1381936,Excluding the US
+2022,il,IL,Israel,EURO,4754934,Excluding the US
+2020,it,IT,Italy,EURO,2083689,Excluding the US
+2021,it,IT,Italy,EURO,5981428,Excluding the US
+2022,it,IT,Italy,EURO,24884034,Excluding the US
+2020,jm,JM,Jamaica,AMRO,12793,Excluding the US
+2021,jm,JM,Jamaica,AMRO,93591,Excluding the US
+2022,jm,JM,Jamaica,AMRO,152758,Excluding the US
+2020,jp,JP,Japan,WPRO,230304,Excluding the US
+2021,jp,JP,Japan,WPRO,1733325,Excluding the US
+2022,jp,JP,Japan,WPRO,27765782,Excluding the US
+2020,je,JE,Jersey,EURO,2727,Excluding the US
+2021,je,JE,Jersey,EURO,19416,Excluding the US
+2022,je,JE,Jersey,EURO,65130,Excluding the US
+2020,jo,JO,Jordan,EMRO,293067,Excluding the US
+2021,jo,JO,Jordan,EMRO,1061560,Excluding the US
+2022,jo,JO,Jordan,EMRO,1746997,Excluding the US
+2020,kz,KZ,Kazakhstan,EURO,200443,Excluding the US
+2021,kz,KZ,Kazakhstan,EURO,1072037,Excluding the US
+2022,kz,KZ,Kazakhstan,EURO,1491711,Excluding the US
+2020,ke,KE,Kenya,AFRO,96251,Excluding the US
+2021,ke,KE,Kenya,AFRO,292237,Excluding the US
+2022,ke,KE,Kenya,AFRO,342336,Excluding the US
+2021,ki,KI,Kiribati,WPRO,0,Excluding the US
+2020,ki,KI,Kiribati,WPRO,0,Excluding the US
+2022,ki,KI,Kiribati,WPRO,3430,Excluding the US
+2020,xk,XK,Kosovo[1],EURO,51101,Excluding the US
+2021,xk,XK,Kosovo[1],EURO,161399,Excluding the US
+2022,xk,XK,Kosovo[1],EURO,272200,Excluding the US
+2020,kw,KW,Kuwait,EMRO,150298,Excluding the US
+2021,kw,KW,Kuwait,EMRO,416631,Excluding the US
+2022,kw,KW,Kuwait,EMRO,662747,Excluding the US
+2020,kg,KG,Kyrgyzstan,EURO,81034,Excluding the US
+2021,kg,KG,Kyrgyzstan,EURO,184689,Excluding the US
+2022,kg,KG,Kyrgyzstan,EURO,206557,Excluding the US
+2020,la,LA,Lao People's Democratic Republic,WPRO,41,Excluding the US
+2021,la,LA,Lao People's Democratic Republic,WPRO,110054,Excluding the US
+2022,la,LA,Lao People's Democratic Republic,WPRO,217586,Excluding the US
+2020,lv,LV,Latvia,EURO,40904,Excluding the US
+2021,lv,LV,Latvia,EURO,276674,Excluding the US
+2022,lv,LV,Latvia,EURO,972561,Excluding the US
+2020,lb,LB,Lebanon,EMRO,177996,Excluding the US
+2021,lb,LB,Lebanon,EMRO,723640,Excluding the US
+2022,lb,LB,Lebanon,EMRO,1221791,Excluding the US
+2020,ls,LS,Lesotho,AFRO,2577,Excluding the US
+2021,ls,LS,Lesotho,AFRO,29652,Excluding the US
+2022,ls,LS,Lesotho,AFRO,34490,Excluding the US
+2020,lr,LR,Liberia,AFRO,1854,Excluding the US
+2021,lr,LR,Liberia,AFRO,6584,Excluding the US
+2022,lr,LR,Liberia,AFRO,8043,Excluding the US
+2020,ly,LY,Libya,EMRO,99935,Excluding the US
+2021,ly,LY,Libya,EMRO,388183,Excluding the US
+2022,ly,LY,Libya,EMRO,507121,Excluding the US
+2020,li,LI,Liechtenstein,EURO,2192,Excluding the US
+2021,li,LI,Liechtenstein,EURO,6220,Excluding the US
+2022,li,LI,Liechtenstein,EURO,21228,Excluding the US
+2020,lt,LT,Lithuania,EURO,141792,Excluding the US
+2021,lt,LT,Lithuania,EURO,522350,Excluding the US
+2022,lt,LT,Lithuania,EURO,1285267,Excluding the US
+2020,lu,LU,Luxembourg,EURO,46334,Excluding the US
+2021,lu,LU,Luxembourg,EURO,102487,Excluding the US
+2022,lu,LU,Luxembourg,EURO,311746,Excluding the US
+2020,mg,MG,Madagascar,AFRO,17714,Excluding the US
+2021,mg,MG,Madagascar,AFRO,50279,Excluding the US
+2022,mg,MG,Madagascar,AFRO,67684,Excluding the US
+2020,mw,MW,Malawi,AFRO,6471,Excluding the US
+2021,mw,MW,Malawi,AFRO,74201,Excluding the US
+2022,mw,MW,Malawi,AFRO,88123,Excluding the US
+2020,my,MY,Malaysia,WPRO,110485,Excluding the US
+2021,my,MY,Malaysia,WPRO,2754513,Excluding the US
+2022,my,MY,Malaysia,WPRO,5021242,Excluding the US
+2020,mv,MV,Maldives,SEARO,13757,Excluding the US
+2021,mv,MV,Maldives,SEARO,95700,Excluding the US
+2022,mv,MV,Maldives,SEARO,185666,Excluding the US
+2020,ml,ML,Mali,AFRO,7029,Excluding the US
+2021,ml,ML,Mali,AFRO,20670,Excluding the US
+2022,ml,ML,Mali,AFRO,32767,Excluding the US
+2020,mt,MT,Malta,EURO,12774,Excluding the US
+2021,mt,MT,Malta,EURO,52470,Excluding the US
+2022,mt,MT,Malta,EURO,116212,Excluding the US
+2021,mh,MH,Marshall Islands,WPRO,4,Excluding the US
+2020,mh,MH,Marshall Islands,WPRO,4,Excluding the US
+2022,mh,MH,Marshall Islands,WPRO,15547,Excluding the US
+2020,mq,MQ,Martinique,AMRO,6072,Excluding the US
+2021,mq,MQ,Martinique,AMRO,49369,Excluding the US
+2022,mq,MQ,Martinique,AMRO,224826,Excluding the US
+2020,mr,MR,Mauritania,AFRO,14191,Excluding the US
+2021,mr,MR,Mauritania,AFRO,41154,Excluding the US
+2022,mr,MR,Mauritania,AFRO,63423,Excluding the US
+2020,mu,MU,Mauritius,AFRO,527,Excluding the US
+2021,mu,MU,Mauritius,AFRO,91094,Excluding the US
+2022,mu,MU,Mauritius,AFRO,289980,Excluding the US
+2020,yt,YT,Mayotte,AFRO,5890,Excluding the US
+2021,yt,YT,Mayotte,AFRO,21911,Excluding the US
+2022,yt,YT,Mayotte,AFRO,41969,Excluding the US
+2020,mx,MX,Mexico,AMRO,1496067,Excluding the US
+2021,mx,MX,Mexico,AMRO,4034822,Excluding the US
+2022,mx,MX,Mexico,AMRO,7196485,Excluding the US
+2021,fm,FM,Micronesia (Federated States of),WPRO,0,Excluding the US
+2020,fm,FM,Micronesia (Federated States of),WPRO,0,Excluding the US
+2022,fm,FM,Micronesia (Federated States of),WPRO,22069,Excluding the US
+2020,mc,MC,Monaco,EURO,853,Excluding the US
+2021,mc,MC,Monaco,EURO,5085,Excluding the US
+2022,mc,MC,Monaco,EURO,15897,Excluding the US
+2020,mn,MN,Mongolia,WPRO,1195,Excluding the US
+2021,mn,MN,Mongolia,WPRO,692621,Excluding the US
+2022,mn,MN,Mongolia,WPRO,1007266,Excluding the US
+2020,me,ME,Montenegro,EURO,47668,Excluding the US
+2021,me,ME,Montenegro,EURO,168338,Excluding the US
+2022,me,ME,Montenegro,EURO,284464,Excluding the US
+2020,ms,MS,Montserrat,AMRO,13,Excluding the US
+2021,ms,MS,Montserrat,AMRO,45,Excluding the US
+2022,ms,MS,Montserrat,AMRO,1403,Excluding the US
+2020,ma,MA,Morocco,EMRO,437332,Excluding the US
+2021,ma,MA,Morocco,EMRO,961058,Excluding the US
+2022,ma,MA,Morocco,EMRO,1271017,Excluding the US
+2020,mz,MZ,Mozambique,AFRO,18485,Excluding the US
+2021,mz,MZ,Mozambique,AFRO,184219,Excluding the US
+2022,mz,MZ,Mozambique,AFRO,230918,Excluding the US
+2020,mm,MM,Myanmar,SEARO,124630,Excluding the US
+2021,mm,MM,Myanmar,SEARO,530834,Excluding the US
+2022,mm,MM,Myanmar,SEARO,633590,Excluding the US
+2020,na,NA,Namibia,AFRO,23932,Excluding the US
+2021,na,NA,Namibia,AFRO,148839,Excluding the US
+2022,na,NA,Namibia,AFRO,170164,Excluding the US
+2021,nr,NR,Nauru,WPRO,0,Excluding the US
+2020,nr,NR,Nauru,WPRO,0,Excluding the US
+2022,nr,NR,Nauru,WPRO,4621,Excluding the US
+2020,np,NP,Nepal,SEARO,260593,Excluding the US
+2021,np,NP,Nepal,SEARO,828431,Excluding the US
+2022,np,NP,Nepal,SEARO,1000962,Excluding the US
+2020,nl,NL,Netherlands,EURO,785874,Excluding the US
+2021,nl,NL,Netherlands,EURO,3114894,Excluding the US
+2022,nl,NL,Netherlands,EURO,8559116,Excluding the US
+2020,nc,NC,New Caledonia,WPRO,38,Excluding the US
+2021,nc,NC,New Caledonia,WPRO,12898,Excluding the US
+2022,nc,NC,New Caledonia,WPRO,79162,Excluding the US
+2020,nz,NZ,New Zealand,WPRO,1807,Excluding the US
+2021,nz,NZ,New Zealand,WPRO,13746,Excluding the US
+2022,nz,NZ,New Zealand,WPRO,2027981,Excluding the US
+2020,ni,NI,Nicaragua,AMRO,4829,Excluding the US
+2021,ni,NI,Nicaragua,AMRO,13563,Excluding the US
+2022,ni,NI,Nicaragua,AMRO,15365,Excluding the US
+2020,ne,NE,Niger,AFRO,3208,Excluding the US
+2021,ne,NE,Niger,AFRO,7365,Excluding the US
+2022,ne,NE,Niger,AFRO,9473,Excluding the US
+2020,ng,NG,Nigeria,AFRO,86576,Excluding the US
+2021,ng,NG,Nigeria,AFRO,241513,Excluding the US
+2022,ng,NG,Nigeria,AFRO,266381,Excluding the US
+2021,nu,NU,Niue,WPRO,0,Excluding the US
+2020,nu,NU,Niue,WPRO,0,Excluding the US
+2022,nu,NU,Niue,WPRO,335,Excluding the US
+2020,mk,MK,North Macedonia,EURO,83329,Excluding the US
+2021,mk,MK,North Macedonia,EURO,225049,Excluding the US
+2022,mk,MK,North Macedonia,EURO,345402,Excluding the US
+2020,mp,MP,Northern Mariana Islands (Commonwealth of the),WPRO,122,Excluding the US
+2021,mp,MP,Northern Mariana Islands (Commonwealth of the),WPRO,3208,Excluding the US
+2022,mp,MP,Northern Mariana Islands (Commonwealth of the),WPRO,13236,Excluding the US
+2020,no,NO,Norway,EURO,49784,Excluding the US
+2021,no,NO,Norway,EURO,394908,Excluding the US
+2022,no,NO,Norway,EURO,1473504,Excluding the US
+2020,ps,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,154097,Excluding the US
+2021,ps,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,470303,Excluding the US
+2022,ps,PS,"occupied Palestinian territory, including east Jerusalem",EMRO,703228,Excluding the US
+2020,om,OM,Oman,EMRO,128719,Excluding the US
+2021,om,OM,Oman,EMRO,305489,Excluding the US
+2022,om,OM,Oman,EMRO,399154,Excluding the US
+2020,,,Other,Other,745,Excluding the US
+2022,,,Other,Other,764,Excluding the US
+2021,,,Other,Other,764,Excluding the US
+2020,pk,PK,Pakistan,EMRO,477240,Excluding the US
+2021,pk,PK,Pakistan,EMRO,1294861,Excluding the US
+2022,pk,PK,Pakistan,EMRO,1575486,Excluding the US
+2020,pw,PW,Palau,WPRO,0,Excluding the US
+2021,pw,PW,Palau,WPRO,10,Excluding the US
+2022,pw,PW,Palau,WPRO,5955,Excluding the US
+2020,pa,PA,Panama,AMRO,238279,Excluding the US
+2021,pa,PA,Panama,AMRO,491043,Excluding the US
+2022,pa,PA,Panama,AMRO,1020961,Excluding the US
+2020,pg,PG,Papua New Guinea,WPRO,780,Excluding the US
+2021,pg,PG,Papua New Guinea,WPRO,36158,Excluding the US
+2022,pg,PG,Papua New Guinea,WPRO,46663,Excluding the US
+2020,py,PY,Paraguay,AMRO,106136,Excluding the US
+2021,py,PY,Paraguay,AMRO,466101,Excluding the US
+2022,py,PY,Paraguay,AMRO,720204,Excluding the US
+2020,pe,PE,Peru,AMRO,1010496,Excluding the US
+2021,pe,PE,Peru,AMRO,2287494,Excluding the US
+2022,pe,PE,Peru,AMRO,4430160,Excluding the US
+2020,ph,PH,Philippines,WPRO,472523,Excluding the US
+2021,ph,PH,Philippines,WPRO,2841018,Excluding the US
+2022,ph,PH,Philippines,WPRO,4059369,Excluding the US
+2021,pn,PN,Pitcairn Islands,WPRO,0,Excluding the US
+2020,pn,PN,Pitcairn Islands,WPRO,0,Excluding the US
+2022,pn,PN,Pitcairn Islands,WPRO,4,Excluding the US
+2020,pl,PL,Poland,EURO,1298021,Excluding the US
+2021,pl,PL,Poland,EURO,4109822,Excluding the US
+2022,pl,PL,Poland,EURO,6364708,Excluding the US
+2020,pt,PT,Portugal,EURO,386876,Excluding the US
+2021,pt,PT,Portugal,EURO,1357375,Excluding the US
+2022,pt,PT,Portugal,EURO,5554058,Excluding the US
+2020,pr,PR,Puerto Rico,AMRO,81082,Excluding the US
+2021,pr,PR,Puerto Rico,AMRO,286138,Excluding the US
+2022,pr,PR,Puerto Rico,AMRO,1042874,Excluding the US
+2020,qa,QA,Qatar,EMRO,143621,Excluding the US
+2021,qa,QA,Qatar,EMRO,249787,Excluding the US
+2022,qa,QA,Qatar,EMRO,487321,Excluding the US
+2020,kr,KR,Republic of Korea,WPRO,60722,Excluding the US
+2021,kr,KR,Republic of Korea,WPRO,630835,Excluding the US
+2022,kr,KR,Republic of Korea,WPRO,28534558,Excluding the US
+2020,md,MD,Republic of Moldova,EURO,143841,Excluding the US
+2021,md,MD,Republic of Moldova,EURO,375780,Excluding the US
+2022,md,MD,Republic of Moldova,EURO,596100,Excluding the US
+2020,re,RE,Réunion,AFRO,8972,Excluding the US
+2021,re,RE,Réunion,AFRO,76602,Excluding the US
+2022,re,RE,Réunion,AFRO,486659,Excluding the US
+2020,ro,RO,Romania,EURO,627941,Excluding the US
+2021,ro,RO,Romania,EURO,1807223,Excluding the US
+2022,ro,RO,Romania,EURO,3305048,Excluding the US
+2020,ru,RU,Russian Federation,EURO,3159297,Excluding the US
+2021,ru,RU,Russian Federation,EURO,10499982,Excluding the US
+2022,ru,RU,Russian Federation,EURO,21750711,Excluding the US
+2020,rw,RW,Rwanda,AFRO,8250,Excluding the US
+2021,rw,RW,Rwanda,AFRO,110558,Excluding the US
+2022,rw,RW,Rwanda,AFRO,132920,Excluding the US
+2020,xc,XC,Saba,AMRO,5,Excluding the US
+2021,xc,XC,Saba,AMRO,31,Excluding the US
+2022,xc,XC,Saba,AMRO,737,Excluding the US
+2020,bl,BL,Saint Barthélemy,AMRO,189,Excluding the US
+2021,bl,BL,Saint Barthélemy,AMRO,1726,Excluding the US
+2022,bl,BL,Saint Barthélemy,AMRO,5382,Excluding the US
+2021,sh,SH,"Saint Helena, Ascension and Tristan da Cunha",AFRO,0,Excluding the US
+2020,sh,SH,"Saint Helena, Ascension and Tristan da Cunha",AFRO,0,Excluding the US
+2022,sh,SH,"Saint Helena, Ascension and Tristan da Cunha",AFRO,2166,Excluding the US
+2020,kn,KN,Saint Kitts and Nevis,AMRO,32,Excluding the US
+2021,kn,KN,Saint Kitts and Nevis,AMRO,2918,Excluding the US
+2022,kn,KN,Saint Kitts and Nevis,AMRO,6560,Excluding the US
+2020,lc,LC,Saint Lucia,AMRO,340,Excluding the US
+2021,lc,LC,Saint Lucia,AMRO,13473,Excluding the US
+2022,lc,LC,Saint Lucia,AMRO,29741,Excluding the US
+2020,mf,MF,Saint Martin,AMRO,986,Excluding the US
+2021,mf,MF,Saint Martin,AMRO,4118,Excluding the US
+2022,mf,MF,Saint Martin,AMRO,12104,Excluding the US
+2020,pm,PM,Saint Pierre and Miquelon,AMRO,16,Excluding the US
+2021,pm,PM,Saint Pierre and Miquelon,AMRO,98,Excluding the US
+2022,pm,PM,Saint Pierre and Miquelon,AMRO,3316,Excluding the US
+2020,vc,VC,Saint Vincent and the Grenadines,AMRO,115,Excluding the US
+2021,vc,VC,Saint Vincent and the Grenadines,AMRO,5952,Excluding the US
+2022,vc,VC,Saint Vincent and the Grenadines,AMRO,9521,Excluding the US
+2020,ws,WS,Samoa,WPRO,1,Excluding the US
+2021,ws,WS,Samoa,WPRO,2,Excluding the US
+2022,ws,WS,Samoa,WPRO,15982,Excluding the US
+2020,sm,SM,San Marino,EURO,2401,Excluding the US
+2021,sm,SM,San Marino,EURO,8251,Excluding the US
+2022,sm,SM,San Marino,EURO,22813,Excluding the US
+2020,st,ST,Sao Tome and Principe,AFRO,1014,Excluding the US
+2021,st,ST,Sao Tome and Principe,AFRO,3877,Excluding the US
+2022,st,ST,Sao Tome and Principe,AFRO,6279,Excluding the US
+2020,sa,SA,Saudi Arabia,EMRO,362601,Excluding the US
+2021,sa,SA,Saudi Arabia,EMRO,555417,Excluding the US
+2022,sa,SA,Saudi Arabia,EMRO,826667,Excluding the US
+2020,sn,SN,Senegal,AFRO,18945,Excluding the US
+2021,sn,SN,Senegal,AFRO,74870,Excluding the US
+2022,sn,SN,Senegal,AFRO,88896,Excluding the US
+2020,rs,RS,Serbia,EURO,334991,Excluding the US
+2021,rs,RS,Serbia,EURO,1297147,Excluding the US
+2022,rs,RS,Serbia,EURO,2438130,Excluding the US
+2020,sc,SC,Seychelles,AFRO,226,Excluding the US
+2021,sc,SC,Seychelles,AFRO,24788,Excluding the US
+2022,sc,SC,Seychelles,AFRO,50355,Excluding the US
+2020,sl,SL,Sierra Leone,AFRO,2583,Excluding the US
+2021,sl,SL,Sierra Leone,AFRO,6983,Excluding the US
+2022,sl,SL,Sierra Leone,AFRO,7760,Excluding the US
+2020,sg,SG,Singapore,WPRO,58569,Excluding the US
+2021,sg,SG,Singapore,WPRO,279061,Excluding the US
+2022,sg,SG,Singapore,WPRO,2193890,Excluding the US
+2020,xb,XB,Sint Eustatius,AMRO,19,Excluding the US
+2021,xb,XB,Sint Eustatius,AMRO,32,Excluding the US
+2022,xb,XB,Sint Eustatius,AMRO,1212,Excluding the US
+2020,sx,SX,Sint Maarten,AMRO,1423,Excluding the US
+2021,sx,SX,Sint Maarten,AMRO,5054,Excluding the US
+2022,sx,SX,Sint Maarten,AMRO,10988,Excluding the US
+2020,sk,SK,Slovakia,EURO,179543,Excluding the US
+2021,sk,SK,Slovakia,EURO,841733,Excluding the US
+2022,sk,SK,Slovakia,EURO,1858531,Excluding the US
+2020,si,SI,Slovenia,EURO,122262,Excluding the US
+2021,si,SI,Slovenia,EURO,464121,Excluding the US
+2022,si,SI,Slovenia,EURO,1297794,Excluding the US
+2020,sb,SB,Solomon Islands,WPRO,17,Excluding the US
+2021,sb,SB,Solomon Islands,WPRO,24,Excluding the US
+2022,sb,SB,Solomon Islands,WPRO,24575,Excluding the US
+2020,so,SO,Somalia,EMRO,4714,Excluding the US
+2021,so,SO,Somalia,EMRO,23532,Excluding the US
+2022,so,SO,Somalia,EMRO,27300,Excluding the US
+2020,za,ZA,South Africa,AFRO,1039161,Excluding the US
+2021,za,ZA,South Africa,AFRO,3446532,Excluding the US
+2022,za,ZA,South Africa,AFRO,4046603,Excluding the US
+2020,ss,SS,South Sudan,AFRO,3540,Excluding the US
+2021,ss,SS,South Sudan,AFRO,15626,Excluding the US
+2022,ss,SS,South Sudan,AFRO,18368,Excluding the US
+2020,es,ES,Spain,EURO,1955216,Excluding the US
+2021,es,ES,Spain,EURO,6505901,Excluding the US
+2022,es,ES,Spain,EURO,13651239,Excluding the US
+2020,lk,LK,Sri Lanka,SEARO,43299,Excluding the US
+2021,lk,LK,Sri Lanka,SEARO,587245,Excluding the US
+2022,lk,LK,Sri Lanka,SEARO,671838,Excluding the US
+2020,sd,SD,Sudan,EMRO,25500,Excluding the US
+2021,sd,SD,Sudan,EMRO,46825,Excluding the US
+2022,sd,SD,Sudan,EMRO,63686,Excluding the US
+2020,sr,SR,Suriname,AMRO,6098,Excluding the US
+2021,sr,SR,Suriname,AMRO,52031,Excluding the US
+2022,sr,SR,Suriname,AMRO,81581,Excluding the US
+2020,se,SE,Sweden,EURO,437300,Excluding the US
+2021,se,SE,Sweden,EURO,1314682,Excluding the US
+2022,se,SE,Sweden,EURO,2665176,Excluding the US
+2020,ch,CH,Switzerland,EURO,446936,Excluding the US
+2021,ch,CH,Switzerland,EURO,1315089,Excluding the US
+2022,ch,CH,Switzerland,EURO,4365587,Excluding the US
+2020,sy,SY,Syrian Arab Republic,EMRO,11344,Excluding the US
+2021,sy,SY,Syrian Arab Republic,EMRO,50243,Excluding the US
+2022,sy,SY,Syrian Arab Republic,EMRO,57423,Excluding the US
+2020,tj,TJ,Tajikistan,EURO,13665,Excluding the US
+2021,tj,TJ,Tajikistan,EURO,17493,Excluding the US
+2022,tj,TJ,Tajikistan,EURO,17786,Excluding the US
+2020,th,TH,Thailand,SEARO,6884,Excluding the US
+2021,th,TH,Thailand,SEARO,2223435,Excluding the US
+2022,th,TH,Thailand,SEARO,4718908,Excluding the US
+2020,gb,GB,The United Kingdom,EURO,2563566,Excluding the US
+2021,gb,GB,The United Kingdom,EURO,13441647,Excluding the US
+2022,gb,GB,The United Kingdom,EURO,24135084,Excluding the US
+2020,tl,TL,Timor-Leste,SEARO,44,Excluding the US
+2021,tl,TL,Timor-Leste,SEARO,19837,Excluding the US
+2022,tl,TL,Timor-Leste,SEARO,23386,Excluding the US
+2020,tg,TG,Togo,AFRO,3611,Excluding the US
+2021,tg,TG,Togo,AFRO,30163,Excluding the US
+2022,tg,TG,Togo,AFRO,39339,Excluding the US
+2021,tk,TK,Tokelau,WPRO,0,Excluding the US
+2020,tk,TK,Tokelau,WPRO,0,Excluding the US
+2022,tk,TK,Tokelau,WPRO,5,Excluding the US
+2020,to,TO,Tonga,WPRO,0,Excluding the US
+2021,to,TO,Tonga,WPRO,1,Excluding the US
+2022,to,TO,Tonga,WPRO,16211,Excluding the US
+2020,tt,TT,Trinidad and Tobago,AMRO,7132,Excluding the US
+2021,tt,TT,Trinidad and Tobago,AMRO,90829,Excluding the US
+2022,tt,TT,Trinidad and Tobago,AMRO,185882,Excluding the US
+2020,tn,TN,Tunisia,EMRO,137216,Excluding the US
+2021,tn,TN,Tunisia,EMRO,725842,Excluding the US
+2022,tn,TN,Tunisia,EMRO,1147477,Excluding the US
+2020,tr,TR,Türkiye,EURO,2194272,Excluding the US
+2021,tr,TR,Türkiye,EURO,9441764,Excluding the US
+2022,tr,TR,Türkiye,EURO,17004677,Excluding the US
+2022,tm,TM,Turkmenistan,EURO,0,Excluding the US
+2021,tm,TM,Turkmenistan,EURO,0,Excluding the US
+2020,tm,TM,Turkmenistan,EURO,0,Excluding the US
+2020,tc,TC,Turks and Caicos Islands,AMRO,865,Excluding the US
+2021,tc,TC,Turks and Caicos Islands,AMRO,3283,Excluding the US
+2022,tc,TC,Turks and Caicos Islands,AMRO,6479,Excluding the US
+2021,tv,TV,Tuvalu,WPRO,0,Excluding the US
+2020,tv,TV,Tuvalu,WPRO,0,Excluding the US
+2022,tv,TV,Tuvalu,WPRO,2779,Excluding the US
+2020,ug,UG,Uganda,AFRO,35220,Excluding the US
+2021,ug,UG,Uganda,AFRO,142671,Excluding the US
+2022,ug,UG,Uganda,AFRO,169715,Excluding the US
+2020,ua,UA,Ukraine,EURO,1055047,Excluding the US
+2021,ua,UA,Ukraine,EURO,3667649,Excluding the US
+2022,ua,UA,Ukraine,EURO,5354738,Excluding the US
+2020,ae,AE,United Arab Emirates,EMRO,206092,Excluding the US
+2021,ae,AE,United Arab Emirates,EMRO,759511,Excluding the US
+2022,ae,AE,United Arab Emirates,EMRO,1046359,Excluding the US
+2020,tz,TZ,United Republic of Tanzania,AFRO,509,Excluding the US
+2021,tz,TZ,United Republic of Tanzania,AFRO,29306,Excluding the US
+2022,tz,TZ,United Republic of Tanzania,AFRO,42111,Excluding the US
+2020,us,US,United States of America,AMRO,19577585,Excluding the US
+2021,us,US,United States of America,AMRO,53534286,Excluding the US
+2022,us,US,United States of America,AMRO,99027628,Excluding the US
+2020,vi,VI,United States Virgin Islands,AMRO,2010,Excluding the US
+2021,vi,VI,United States Virgin Islands,AMRO,9055,Excluding the US
+2022,vi,VI,United States Virgin Islands,AMRO,23721,Excluding the US
+2020,uy,UY,Uruguay,AMRO,17962,Excluding the US
+2021,uy,UY,Uruguay,AMRO,410311,Excluding the US
+2022,uy,UY,Uruguay,AMRO,1002988,Excluding the US
+2020,uz,UZ,Uzbekistan,EURO,77060,Excluding the US
+2021,uz,UZ,Uzbekistan,EURO,198903,Excluding the US
+2022,uz,UZ,Uzbekistan,EURO,249217,Excluding the US
+2020,vu,VU,Vanuatu,WPRO,1,Excluding the US
+2021,vu,VU,Vanuatu,WPRO,7,Excluding the US
+2022,vu,VU,Vanuatu,WPRO,12013,Excluding the US
+2020,ve,VE,Venezuela (Bolivarian Republic of),AMRO,112861,Excluding the US
+2021,ve,VE,Venezuela (Bolivarian Republic of),AMRO,444186,Excluding the US
+2022,ve,VE,Venezuela (Bolivarian Republic of),AMRO,549548,Excluding the US
+2020,vn,VN,Viet Nam,WPRO,1456,Excluding the US
+2021,vn,VN,Viet Nam,WPRO,1714742,Excluding the US
+2022,vn,VN,Viet Nam,WPRO,11523567,Excluding the US
+2020,wf,WF,Wallis and Futuna,WPRO,4,Excluding the US
+2021,wf,WF,Wallis and Futuna,WPRO,453,Excluding the US
+2022,wf,WF,Wallis and Futuna,WPRO,3415,Excluding the US
+2020,ye,YE,Yemen,EMRO,2101,Excluding the US
+2021,ye,YE,Yemen,EMRO,10126,Excluding the US
+2022,ye,YE,Yemen,EMRO,11945,Excluding the US
+2020,zm,ZM,Zambia,AFRO,20462,Excluding the US
+2021,zm,ZM,Zambia,AFRO,249193,Excluding the US
+2022,zm,ZM,Zambia,AFRO,333746,Excluding the US
+2020,zw,ZW,Zimbabwe,AFRO,13625,Excluding the US
+2021,zw,ZW,Zimbabwe,AFRO,211728,Excluding the US
+2022,zw,ZW,Zimbabwe,AFRO,259981,Excluding the US
