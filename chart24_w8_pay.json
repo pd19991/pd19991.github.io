@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Increase rate of the average of monthly pay",
+      "subtitle": "Source: ONS",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/w8_2_pay.csv"
+    },
+    "height": 300,
+    "width": 300,
+    "mark": {"type": "line", "color": "#679916c2"},
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 45}
+      },
+      "y": {
+        "field": "increase_rate",
+        "type": "quantitative",
+        "title": "",
+        "axis": {"grid": true}
+      },
+  
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "title": "Year","timeUnit":"year"},
+        {"field": "Total pay", "type": "nominal", "title": "Averaged monthly pay"},
+        {"field": "increase_rate", "type": "nominal", "title": "Increase rate"}
+      ]
+  
+    }
+  }

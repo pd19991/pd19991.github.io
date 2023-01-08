@@ -1,0 +1,62 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Inflation rate experienced by households of different income level",
+      "subtitle": ["Source: ONS"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/w8_1_inflation.csv"
+    },
+    "height": 300,
+    "width": 300,
+    "mark": {"type": "line", "point": true},
+    "transform": [{"filter": {"selection": "pickSeries"}}],
+    "selection": {
+      "pickSeries": {
+        "type": "single",
+        "fields": ["income_level"],
+        "bind": {
+          "input": "select",
+          "options": [null, "Low-income households", "High-income households"],
+          "name": "Income level: "
+        }
+      }
+    },
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {"title": null, "grid": false, "ticks": true, "labelAngle": 80}
+      },
+      "y": {
+        "field": "inflation",
+        "type": "quantitative",
+        "title": "Inflation",
+        "axis": {"grid": true}
+      },
+      "color": {
+        "field": "income_level",
+        "type": "nominal",
+        "title": "Income level:",
+            "scale": {
+              "range": [
+                "teal",
+                "orange"
+              ]
+            }
+      },
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "title": "Year","timeUnit":"year"},
+        {"field": "inflation", "type": "nominal", "title": "Inflation rate"},
+        {
+          "field": "income_level",
+          "type": "nominal",
+          "title": "Income level"
+        }
+      ]
+    }
+  }

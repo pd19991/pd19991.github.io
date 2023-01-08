@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "title": {
+      "text": ["Base Map"],
+      "subtitle": "The world map with tooltip that reveals the name of each country.",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "width": 600,
+    "height": 300,
+    "config": {"style": {"cell": {"stroke": "transparent"}}},
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries-sans-antarctica.json",
+    "format": {"type": "topojson", "feature": "countries1"}
+    },
+  
+    "projection": {"type": "equalEarth"},
+  
+    "transform": [
+      {
+        "lookup":"properties.name",
+    
+        "from":{
+         "data":{
+           "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/global_data.csv"},
+         "key": "Country",
+         "fields": ["Year","Country","WHO_region","Cumulative_cases"]
+        }
+      }
+    ],
+  
+    "mark": {
+      "type": "geoshape",
+      "stroke":"dark",
+      "strokeWidth":0.5
+    },
+  
+    "encoding": {
+      "color": {
+        "field": "Cumulative_cases",
+        "title": "Cumulative cases",
+        "type": "quantitative",
+        "scale": {"scheme": "lighttealblue", "domain": [0, 100000000]}
+      },
+  
+      "tooltip": [
+        {"field": "properties.name", "type": "nominal", "title": "Country"},
+        {"field": "Cumulative_cases", "type": "quantitative","format":","}
+      ]
+    }
+  }

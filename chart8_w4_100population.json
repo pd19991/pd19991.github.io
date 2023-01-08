@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Rank of World Top 100 Countries in Population",
+    "subtitle": "Source: Wikipedia",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/w4population(1).csv"
+  },
+  "height": 300,
+  "width": 600,
+  "mark": {"type": "bar", "color": "#122e8b9f"},
+  "encoding": {
+    "x": {
+      "field": "Rank",
+      "type": "quantitative",
+      "scale": {"domain": [1, 100]},
+      "axis": {"title": null, "grid": true, "ticks": true, "labelAngle": 45}
+    },
+    "y": {
+      "field": "Numbers",
+      "type": "quantitative",
+      "scale": {"domain": [1, 1420000000]},
+      "title": "",
+      "axis": {"grid": true}
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {
+        "field": "Rank",
+        "type": "quantitative",
+        "title": "Rank",
+        "format": ",.0f"
+      },
+      {
+        "field": "Numbers",
+        "type": "quantitative",
+        "title": "Population",
+        "format": ","
+      }
+    ]
+  }
+}

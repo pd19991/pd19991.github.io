@@ -1,0 +1,87 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "the Relationship between log of GDP before the pandamic and the cumulative cases by the end of 2022 in each countries. the size of each dot represents the country's population.",
+  "title": {
+    "text": "Regression of Log of Cumulative Cases on Log of GDP",
+    "subtitle": "Source: IMF & WHO & Wikipedia. R²=0.82",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/covid_case-population.csv"
+  },
+  "height": 300,
+  "width": 300,
+  "layer": [
+    {
+      "mark": {"type": "circle", "color": "rgb(0,47,167)", "size": 100},
+      "encoding": {
+        "x": {
+          "field": "log_gdp",
+          "type": "quantitative",
+          "title": "Log GDP, current prices 2019"
+        },
+        "y": {
+          "field": "log_cum_case",
+          "type": "quantitative",
+          "title": "Log Cumulative Cases, by Dec 2022",
+          "scale": {"domain": [7, 20]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "title": "Population",
+          "scale": {"range": [10, 800]}
+        },
+        "color": {
+          "field": "who_region",
+          "type": "nominal",
+          "scale": {
+            "range": [
+              "teal",
+              "rgb(0,47,167)",
+              "#00bfff",
+              "#bf8040",
+              "#263409",
+              "#627f8c"
+            ]
+          },
+          "title": null,
+          "legend": {"orient": "bottom", "title": null, "columns": 2}
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title": "Country"},
+          {"field": "who_region", "type": "nominal", "title": "WHO Region"},
+          {
+            "field": "Cumulative_cases_2022",
+            "type": "quantitative",
+            "title": "Cumulative Cases",
+            "format": ",.0f"
+          },
+          {
+            "field": "GDP",
+            "type": "quantitative",
+            "title": "GDP (billions of U.S. dollars)",
+            "format": ",.2f"
+          },
+          {
+            "field": "Population",
+            "type": "quantitative",
+            "title": "Population",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "darkorange"},
+      "transform": [{"regression": "log_cum_case", "on": "log_gdp"}],
+      "encoding": {
+        "x": {"field": "log_gdp", "type": "quantitative"},
+        "y": {"field": "log_cum_case", "type": "quantitative"}
+      }
+    }
+  ]
+}
