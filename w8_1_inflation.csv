@@ -1,17 +1,33 @@
-﻿Year,Low-income households,High-income households
-2006,2.74150408,2.241412297
-2007,2.517602475,2.281509893
-2008,4.031442157,3.250670427
-2009,2.535637952,1.7250919
-2010,2.884884198,3.561520565
-2011,4.394750768,4.373400353
-2012,3.088019244,2.500144698
-2013,2.750432258,2.610073406
-2014,1.547277714,1.424117832
-2015,-0.104851338,0.010872229
-2016,0.551715281,0.661450542
-2017,2.545949383,2.661701443
-2018,2.359613296,2.630553681
-2019,1.671992588,1.809649947
-2020,0.734077355,0.940155574
-2021,2.360918939,2.761150516
+﻿Year,inflation,income_level
+2006,2.74150408,Low-income households
+2007,2.517602475,Low-income households
+2008,4.031442157,Low-income households
+2009,2.535637952,Low-income households
+2010,2.884884198,Low-income households
+2011,4.394750768,Low-income households
+2012,3.088019244,Low-income households
+2013,2.750432258,Low-income households
+2014,1.547277714,Low-income households
+2015,-0.104851338,Low-income households
+2016,0.551715281,Low-income households
+2017,2.545949383,Low-income households
+2018,2.359613296,Low-income households
+2019,1.671992588,Low-income households
+2020,0.734077355,Low-income households
+2021,2.360918939,Low-income households
+2006,2.241412297,High-income households
+2007,2.281509893,High-income households
+2008,3.250670427,High-income households
+2009,1.7250919,High-income households
+2010,3.561520565,High-income households
+2011,4.373400353,High-income households
+2012,2.500144698,High-income households
+2013,2.610073406,High-income households
+2014,1.424117832,High-income households
+2015,0.010872229,High-income households
+2016,0.661450542,High-income households
+2017,2.661701443,High-income households
+2018,2.630553681,High-income households
+2019,1.809649947,High-income households
+2020,0.940155574,High-income households
+2021,2.761150516,High-income households
