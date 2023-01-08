@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      
+    "description": "Infection rate, grouped by WHO regions",
+    "height": 300,
+    "width": 300,
+      
+    "title": {
+        "text": "Infection rate, grouped by WHO regions",
+        "subtitle": ["Generated as cumulative cases over population. Source: WHO & Wikipedia"],
+         "subtitleFontStyle":"italic",
+         "subtitleFontSize":10,
+         "anchor": "start",
+         "color": "black"},
+        
+    "data": {
+      "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/cases_age.csv",
+      "format": {"type":"csv"}},
+      
+    
+    "mark":{
+      "type": "point",
+      "color":"rgba(0,67,167)",
+      "size":150,
+      "opacity":0.7},
+    
+    "selection": {
+          "paintbrush": {
+            "type": "multi", 
+            "on": "mouseover", 
+            "nearest": true}},
+      
+    "encoding": {
+      "x": {
+        "field": "who_region", 
+        "type": "nominal",
+        "title":"WHO region"},
+      
+      "y": {
+        "field": "infection_rate", 
+        "type": "quantitative", 
+        "title":"Infection rate, by Dec 2022",
+        "scale":{
+            "domain":[0,0.7]}
+            },
+        
+        "size": {
+                "condition": {
+                  "test": {"selection": "paintbrush"}, 
+                  "value": 200},
+                  "value": 150
+            
+          },
+          "color": {
+            "field": "v4",
+            "title":"WHO region",
+            "type": "nominal",
+            "scale": {
+              "range": [
+                "teal",
+                "rgb(0,47,167)",
+                "darkred",
+                "#bf8040",
+                "#263409",
+                "#627f8c"
+              ]
+            }},
+  
+      "tooltip": [
+        {"field": "country", "type": "nominal", "title":"Country"},  
+        {"field": "cumulative_deaths_2022", "type": "quantitative", "format": ",", "title":"Cumulative cases"},
+        {"field": "gdp", "type": "nominal", "title":"GDP"}]
+    
+     }
+    }

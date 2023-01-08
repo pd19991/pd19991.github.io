@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "the Relationship between the latest population estimate and the cumulative cases by the end of 2022 in each countries.",
+
+  "title": {
+    "text": "Relationship between Population and Cumulative Cases",
+    "subtitle":"Source: Wikipedia (population) & WHO (cases)",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "height": 300,
+  "width": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/covid_case-population.csv"
+  },
+  "selection": {
+    "paintbrush": {"type": "multi", "on": "mouseover", "nearest": true},
+    "grid": {"type": "interval", "bind": "scales"}
+  },
+  "mark": {"type": "circle", "opacity": 0.6, "color": "darkseagreen"},
+  "transform": [{"calculate": "datum.Population/1000000", "as": "millions"}],
+
+
+  "encoding": {
+    "x": {
+      "field": "millions",
+      "type": "quantitative",
+      "axis": {
+        "title": "Population (in millions)",
+        "grid": false,
+        "tickCount": 14,
+        "labelOverlap": "greedy"
+      }
+    },
+    "y": {
+      "field": "Cumulative_cases_2022",
+      "type": "quantitative",
+      "axis": {"title": " Cumulative Cases", "grid": false}
+    },
+    "size": {
+      "condition": {
+        "selection": "paintbrush",
+        "value": 300,
+        "init": {"value": 70}
+      },
+      "value": 70
+    },
+
+    "tooltip": [
+      {"field": "Country", "type": "ordinal", "title": "Country"},
+      {"field": "Population", "type": "nominal", "title": "Population","format":","},
+      {"field": "Cumulative_cases_2022","type": "nominal","title": "Cumulative cases","format":","}
+    ]
+  }
+}

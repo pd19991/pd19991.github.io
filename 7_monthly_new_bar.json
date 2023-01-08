@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "The bar chart shows the total monthly new covid cases, the number of each country is also shown with tooltip.",
+  "title": {
+    "text": "Monthly New Covid Cases, by WHO region",
+    "subtitle": ["Source: WHO"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/month_adj_case2(1).csv"
+  },
+
+  "height": 300,
+  "width": 600,
+  "mark": {"type": "bar", "point": true},
+
+    "transform": [{"filter": {"selection": "pickSeries"}}],
+
+"selection": {
+  "pickSeries": {
+    "type": "single",
+    "fields": ["WHO_region"],
+    "bind": {
+      "input": "select",
+      "options": [
+        null,
+        "AFRO",
+        "AMRO",
+        "EMRO",
+        "EURO",
+        "SEARO",
+        "WPRO"
+      ],
+      "name": "Pick a region: "
+    }
+  }
+},
+
+  "encoding": {
+    "x": {
+      "timeUnit":"yearmonth",
+      "field": "Year",
+      "type": "temporal",
+      "axis": {"title": null, "grid": false, "ticks": true, "labelAngle": 80}
+    },
+    "y": {
+      "field": "month_new_case",
+      "type": "quantitative",
+      "title": "Monthly New",
+      "axis": {"grid": true}
+    },
+    "color": {
+    "field": "WHO_region",
+    "type": "nominal",
+    "title": "WHO region:",
+    "scale": {"scheme": "category20c"}
+  },
+
+    "tooltip": [
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "Year", "type": "temporal", "title": "Date collected"},
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {"field": "month_new_case", "type": "quantitative", "title": "Monthly new cases","format":","}
+    ]
+  }
+}
