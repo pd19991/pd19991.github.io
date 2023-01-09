@@ -1,0 +1,209 @@
+/* Richard Davies, Data Science for Economists */
+
+/* project css file, Chenyi Xuan */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+body{
+    background-image: url(1.png); 
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    background-color:transparent;
+ 
+}
+
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(152, 174, 28, 0.474);
+    color: white;
+}
+
+.page-title {
+    font-size: 1.9rem;
+    margin-left: 1rem;
+    margin: 0.5rem;
+    text-indent: 30px;
+    font-family: 'Cinzel', serif;
+}
+
+.navbar-links {
+    height: 100%;
+}
+
+.navbar-links ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links li {
+    list-style: none;
+}
+
+.navbar-links li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+
+.navbar-links li:hover {
+    background-color: rgb(152, 174, 28);
+}
+
+.toggle-button {
+    position: absolute;
+    top: .75rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 30px;
+}
+
+
+/* unvisited link */
+a:link {
+    color: #E9C46A;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(150, 178, 228);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(171, 227, 127);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(220, 39, 99);
+  }
+
+
+h1{
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+h3{
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+
+.myWeek1{
+    margin: auto;
+    max-width: 800px; /*600 px */
+    
+}
+
+.frame{
+    background-color: white;
+    width: 440px;
+    height: 350px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+    
+}
+
+
+
+.chart{
+    background-color: white;
+    width:450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+
+    
+}
+
+.chart1{
+    background-color: white;
+    width:740px;
+    height: 380px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+
+}
+
+.chart2{
+    background-color: white;
+    width:810px;
+    height: 430px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+
+}
+
+.chart3{
+    background-color: white;
+    width:530px;
+    height: 410px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+
+}
+
+.chart4{
+    background-color: white;
+    width:470px;
+    height: 440px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: rgb(158, 194, 252);
+
+}
+
+footer {
+    height: 120px
+}
+
+.front {
+    height: 17px
+}
+
+.front1 {
+    height: 5px
+}

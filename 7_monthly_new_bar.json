@@ -12,36 +12,30 @@
   "data": {
     "url": "https://raw.githubusercontent.com/pd19991/pd19991.github.io/main/month_adj_case2(1).csv"
   },
-
   "height": 300,
-  "width": 600,
+  "width": 550,
   "mark": {"type": "bar", "point": true},
-
-    "transform": [{"filter": {"selection": "pickSeries"}}],
-
-"selection": {
-  "pickSeries": {
-    "type": "single",
-    "fields": ["WHO_region"],
-    "bind": {
-      "input": "select",
-      "options": [
-        null,
-        "AFRO",
-        "AMRO",
-        "EMRO",
-        "EURO",
-        "SEARO",
-        "WPRO"
-      ],
-      "name": "Pick a region: "
+  "transform": [{"filter": {"selection": "pickSeries"}}],
+  "selection": {
+    "pickSeries": {
+      "type": "single",
+      "fields": ["v4"],
+      "bind": {
+        "input": "select",
+        "options": [null, 
+        "African Region", 
+        "Region of the Americas", 
+        "Eastern Mediterranean Region", 
+        "European Region", 
+        "South-East Asian Region", 
+        "Western Pacific Region"],
+        "name": "Pick a region: "
+      }
     }
-  }
-},
-
+  },
   "encoding": {
     "x": {
-      "timeUnit":"yearmonth",
+      "timeUnit": "yearmonth",
       "field": "Year",
       "type": "temporal",
       "axis": {"title": null, "grid": false, "ticks": true, "labelAngle": 80}
@@ -53,17 +47,21 @@
       "axis": {"grid": true}
     },
     "color": {
-    "field": "WHO_region",
-    "type": "nominal",
-    "title": "WHO region:",
-    "scale": {"scheme": "category20c"}
-  },
-
+      "field": "v4",
+      "type": "nominal",
+      "title": "WHO region:",
+      "scale": {"scheme": "category20c"}
+    },
     "tooltip": [
       {"field": "Country", "type": "nominal", "title": "Country"},
       {"field": "Year", "type": "temporal", "title": "Date collected"},
-      {"field": "Country", "type": "nominal", "title": "Country"},
-      {"field": "month_new_case", "type": "quantitative", "title": "Monthly new cases","format":","}
+      {"field": "v4", "type": "nominal", "title": "WHO region"},
+      {
+        "field": "month_new_case",
+        "type": "quantitative",
+        "title": "Monthly new cases",
+        "format": ","
+      }
     ]
   }
 }

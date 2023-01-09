@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title for the page -->
+    <title>Project</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="project3_1.css">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+
+
+<body>
+    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+    <nav class="navbar">
+        <div class="page-title">Data Science - ChenYi Xuan</div>
+        <a href="#" class="toggle-button">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+          <ul>
+            <li><a href="https://pd19991.github.io/portfolio.html">Portfolio</a></li>
+            <li><a href="https://pd19991.github.io/project.html">Project</a></li>
+            <li><a href="https://github.com/pd19991/pd19991.github.io">GitHub</a></li>
+          </ul>
+        </div>
+      </nav>   
+      
+    <div class="front">
+        <front></front>
+    </div>
+
+    <div align="center" class="myWeek1">
+        <h1>Is GDP correlated to Covid infection?</h1>
+
+        <p>Even until now, the Covid-19 pandemic is continuously spreading. As an international health issue, the fast, wide and also long-lasting spread of Covid attracted a large number of experts all over the world researching on different aspects of it, and many interesting points of view had been made. </p>
+        <p>Therefore, with the help of data science methods, this project is going to look at one of the reasonable factors of the spread of Covid-19, the level of economic development, and to see how well this suggested reason is correlated to the real Covid data. </p>
+        <p>The core data used in this project is the daily confirmed new cases and cumulative cases in each country, collected from <a class="link" href="https://covid19.who.int/data">WHO</a> and cleaned respectively for different purposes. </p>
+        <p>The GDP data is collected from <a class="link" href="https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD">IMF</a>. </p>
+        
+        <p>Firstly, I took the cumulative cases reported at the end of year 2022, 2021 and 2020 as the total cases confirmed by the year. A world trend is shown through the following map. </p>
+        
+        <div class="chart1" id="Chart1"></div>
+
+        <p>The following chart shows the total number of new cases confirmed in each month for all countries, coloured by WHO regions. </p>
+        <p>The data is cleaned through <a class="link" href="https://colab.research.google.com/drive/1o1o7qOUUaCNbkFCG8j-EXSH12ewn2LLN#scrollTo=StNXJjGu0fa4">Colab</a>.</p>
+        
+        <div class="chart2" id="Chart2"></div>
+
+        <p>Similar to a wide belief of a positive statistical relationship between cases and levels of economic development, it could be found from the third chart that better developed regions, such as the European and the Americas, have higher infection rates (taken as cumulative cases over total population) than the rest. </p>
+        
+        <div class="chart3" id="Chart3"></div>
+        
+        <p>Since the economy was hugely affected by the Covid pandemic, GDP in 2019 is taken as the index for showing the level of economic development.</p>
+        <p>It could be clearly found that the number of cases confirmed is highly related to GDP. </p>
+        <p>The OLS regression is estimated with <a class="link" href="https://colab.research.google.com/drive/1jYtS7yFNn4Ich42eCb1uY9nw7lc-xiQv#scrollTo=9SANbbv4M8J4">Colab</a>. </p>
+        <h2>Log (cumulative cases) = 9.46+0.91*Log (GDP)</h2>
+        <p>The coefficient indicates that for every 1% increase in GDP, cumulative cases confirmed increase by 0.91%. </p>
+        <div class="chart4" id="Chart4"></div>
+
+        <p>The population data is scraped from Wikipedia through <a class="link" href="https://colab.research.google.com/drive/1wskZ8vgq9AxJPBIMmJouDv-BKnwdwqCp#scrollTo=S9Z4kMPnP1vp">Colab</a>. </p>
+
+        <p>In the chart, the sizes of bubbles are not evenly distributed along the regression, which might indicate that population is somehow related to both the GDP level and the number of cases.</p>
+
+        <div class="chart" id="Chart5"></div>
+
+        <p>It is shown in <a class="link" href="https://colab.research.google.com/drive/1ICGOo11fFrG3YZFH-gjO8W6x7zHGmedD#scrollTo=iptlQKy5p80W">Colab</a> that R squared equals 0.32, which means that few points are explained by the regression. Therefore, the positive correlation between GDP and cases could be confirmed.</p>
+        
+        <p>There are several arguments for reasons of this correlation. </p>
+        <p>Firstly, it is because of the higher level of population aging that these developed countries are suffering from, since current clinical data had shown that the elder people are more likely to be infected.</p>
+        
+        <p>I collected the medium age data from the <a class="link" href="https://population.un.org/wpp/Download/Standard/MostUsed/">UN dataset</a> and merged it to the cumulative covid cases data with Stata (<a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/cases_age.do">do file</a>, <a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/cases_age.dta">dataset1</a>, <a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/median_age.dta">dataset2</a>). </p>
+
+        <p>The following charts are graphed in <a class="link" href="https://colab.research.google.com/drive/19PTAh6NxCROEXDBif4bps8cpDDWGwNSp#scrollTo=Tc2Vt7-tCK4y&uniqifier=3">Colab</a>. </p>
+        
+        <div class="png" id="chart6">
+            <img src="11_case_age_sha.png">
+          </div>
+
+        <p>The R squared of the regression is only 0.55. Therefore, it could be argued that there is only weak correlation between the level of population aging and Covid infection rate.</p>
+        
+        <p>Another reason raised is that it is the low health expenditure in those less developed countries that leads to an inferior amount of Covid testing and hence, total cases and the estimated infection rate become smaller than in reality. </p>
+        <p>The following graphs are also processed through Stata (<a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/cases_healthcare.do">do file</a>, <a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/cases_age.dta">dataset1</a>, <a class="link" href="https://github.com/pd19991/pd19991.github.io/blob/main/health_ppp.dta">dataset2</a>), and plotted through <a class="link" href="https://colab.research.google.com/drive/1xhHRuWaI-c4AoxUQIIKun3wNp_7iTwys#scrollTo=oI8lzSWal-5o&uniqifier=1">Colab</a>. Since it seems that the scatter plots might be better fitted with a quadratic curve, the regression is performed with PolynomialFeatures. </p>
+
+        <div class="png" id="chart8">
+            <img src="9.2_health_inf_qua.png">
+          </div>
+
+        <p>It seems that there is no clear correlation between healthcare expenditure per capita and the infection rate. </p>
+    
+        <h3>Conclusion</h3>
+        <p>From the charts shown, it could be confirmed that there is positive linear correlation between level of GDP and level of cumulative cases. </p>
+        <p>However, the reasons for the relationship cannot be affirmed. It might be because of the inevitable limitations in obtaining data that too many interfering factors exist.</p>
+        <p>For countries that are less developed, they have more fatal diseases, poorer sanitation condition and lower quality of healthcare, and hence may not put much effort in testing and reporting Covid cases. Besides, there might be a case that for some countries that are closer to the well-developed countries, they are supported by these countries while the others are not. Therefore, an uneven distribution of Covid testing is found. </p>
+    
+        <h3>Project Challenges</h3>
+        <p>Data cleaning is difficult due to the huge amount of data downloaded from the WHO website. </p>
+        <p>There are so many things that worth discussing on Covid.  I need to organise my ideas before looking for any extended data, and focus on only one small aspect that I decide to work on. </p>
+        <p>However, some data are hard to find, such as indicators on country openness, which forced me to change my initial project plan. </p>
+        <p>I was also stuck in making some charts. I overcame them through analysing Rapid Charts and looking for suggestions on the Internet. </p>
+        <footer></footer>
+
+
+    </div> 
+</body>
+
+
+<script>
+    //Define charts:
+    var myChart1 = "1.2_cum_case_timebar.json";
+    var myChart2 = "7_monthly_new_bar.json";
+    var myChart3 = "10_dis_inf_rate.json";
+    var myChart4 = "3_cum_case_pop.json";
+    var myChart5 = "5_gdp_pop.json";
+    var myChart6 = "11_case_age_sha.png";
+    var myChart8 = "9.2_health_inf_qua.png";
+
+
+    // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
+
+</script>
+
+</html>
+
+
